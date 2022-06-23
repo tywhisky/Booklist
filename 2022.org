@@ -1,0 +1,9 @@
+* 2022 [0/4]
+
+** STRT /Programming Elixir/ - Dave Thomas
+
+** TODO /Programming Phoenix/ - Chris McCord, Bruce Tate, Jose Valim
+
+** TODO /Clean Code/ - Robert Cecil Martin
+
+** TODO /Computer Networking: A Top-Down Approach/ - James F. Kurose, Keith W. Ross

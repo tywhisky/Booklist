@@ -1,0 +1,6 @@
+* Booklist
+
+Sometimes there many books which I want to read, so i start it. And then I do not find then...
+I forget to continue finish the book with any reason. I think it's terrible. I need a booklist to manage it.
+
+As the while I was start use emacs and org-mode. Maybe it's a good way to manage booklist and particular emacs at the same time.
