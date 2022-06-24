@@ -1,9 +1,17 @@
-* 2022 [0/4]
+* 2022 [1/4]
 
-** STRT /Programming Elixir/ - Dave Thomas
+** DONE /Programming Elixir/ - Dave Thomas
+:FINISHED_AT: [2022-6-23]
+:THOUGHTS:
+
+I have work with Elixir more than half of one year when I finished this book. So the first
+half of the book was a bit basic for me. But even so, it solidified perception of Elixir,
+especially the part of Macro.
+All in all this is a book for both introduction and consolidation.
+
 
 ** TODO /Programming Phoenix/ - Chris McCord, Bruce Tate, Jose Valim
 
-** TODO /Clean Code/ - Robert Cecil Martin
+** STRT /Clean Code/ - Robert Cecil Martin
 
 ** TODO /Computer Networking: A Top-Down Approach/ - James F. Kurose, Keith W. Ross
