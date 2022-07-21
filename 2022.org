@@ -13,5 +13,7 @@ All in all this is a book for both introduction and consolidation.
 ** TODO /Programming Phoenix/ - Chris McCord, Bruce Tate, Jose Valim
 
 ** STRT /Clean Code/ - Robert Cecil Martin
+Page: 38
+
 
 ** TODO /Computer Networking: A Top-Down Approach/ - James F. Kurose, Keith W. Ross
